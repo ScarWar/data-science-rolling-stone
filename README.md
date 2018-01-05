@@ -13,7 +13,7 @@ This is a short presentation on data science and in particular on Machine Learni
 
 To download this presentation and all the examples dependecies
 ```
-git clone git@github.com:ScarWar/data--rolling-stone
+git clone git@github.com:ScarWar/data-science-rolling-stone
 pipenv install
 pipenv shell
 ```
