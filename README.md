@@ -1,4 +1,4 @@
-# data-science-rolling-stone
+# Data Science Rolling Stone
 This is a short presentation on data science and in particular on Machine Learning (ML) using Neural Network (NN) which aims to show all the new possibilities this provide us
 
 ## Dependencies
@@ -13,7 +13,7 @@ This is a short presentation on data science and in particular on Machine Learni
 
 To download this presentation and all the examples dependecies
 ```
-git clone git@github.com:ScarWar/data-science-rolling-stone
+git clone git@github.com:ScarWar/data--rolling-stone
 pipenv install
 pipenv shell
 ```
