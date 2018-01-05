@@ -1,4 +1,4 @@
-# data-science-rolling-stone
+# Data Science Rolling Stone
 This is a short presentation on data science and in particular on Machine Learning (ML) using Neural Network (NN) which aims to show all the new possibilities this provide us
 
 ## Dependencies
