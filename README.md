@@ -23,3 +23,4 @@ To run Convolutional Neural Network Example:
 python3 CNN_mnist.py
 ```
 
+To run CNN fashion_mnist dataset go to ```Keras-TF-CNN-fashion_mnist.ipy``` and run through the cells
