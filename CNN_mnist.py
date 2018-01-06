@@ -34,7 +34,7 @@ def run_cnn():
 
     learning_rate = 0.0001
     epochs = 10
-    batch_size = 50
+    batch_size = 20
 
     # 784 = 28 * 28 (image size)
     x = tf.placeholder(tf.float32, [None, 784])
